@@ -1,0 +1,19 @@
+.box{
+    width: 100px;
+    height: 100px;
+}
+.box1{
+    background-color: violet;
+}
+
+.box2{
+    background-color: yellowgreen;
+}
+
+.box3{
+    background-color: red;
+}
+
+.box4{
+    background-color: darkviolet;
+}
